@@ -187,7 +187,7 @@
 </td>
 
 <td align="center" width="220">
-  <img src="https://img.icons8.com/color/96/coursera.png" width="65"/>
+  <img src="https://img.icons8.com/color/96/sql.png" width="65"/>
   <br/><br/>
   <b>SQL for Data Science</b>
   <br/>
