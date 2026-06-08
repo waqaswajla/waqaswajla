@@ -150,18 +150,28 @@
   <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" height="175"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&langs_count=8" height="200"/>
-</div>
-
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" width="90%"/>
+  <img src="https://img.shields.io/badge/💰_Revenue_Analyzed-%241.1M%2B-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤖_ML_Accuracy-99%25%2B-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📊_Projects_Delivered-5-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📉_Churn_Risk_Found-%24139K-FFD700?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Platform-GCP_BigQuery-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-LSTM_Champion-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🪨_Rockburst_ML-95.7%25_ROC_AUC-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤟_Sign_Language-98.6%25_Accuracy-FFD700?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ---
