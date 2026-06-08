@@ -147,8 +147,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaswajla&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Waqas%20Ahmed's%20GitHub%20Stats" height="175"/>
-  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" height="175"/>
 </div>
 
@@ -156,12 +154,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&langs_count=8" height="200"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqaswajla&theme=tokyonight" width="95%"/>
 </div>
 
 ---
