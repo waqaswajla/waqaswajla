@@ -16,16 +16,46 @@
 
 ## 👨‍💻 About Me
 
-```python
-waqas = {
-    "role"      : ["Data Analyst", "Business Analyst", "ML Engineer"],
-    "education" : "BS Computer Science — HITEC University, Taxila (2022–2026)",
-    "skills"    : ["SQL", "Python", "Power BI", "Machine Learning", "ETL"],
-    "highlight" : "$1.1M revenue analyzed · 99%+ ML accuracy · 5 projects delivered",
-    "status"    : "Open to opportunities 🟢",
-    "location"  : "Taxila, Pakistan 🇵🇰"
-}
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=760&height=72&lines=👋+Data+Analyst+%7C+Business+Analyst+%7C+ML+Engineer;🎓+BS+Computer+Science+—+HITEC+University+(2022–2026);💼+Built+%241.1M+Revenue+Dashboard+on+GCP+BigQuery;🤖+Engineered+99%25%2B+Accurate+LSTM+Deep+Learning+Model;📉+Identified+%24139K+Monthly+Churn+Risk+in+Telecom+Data;📍+Taxila%2C+Pakistan+·+🟢+Open+to+Opportunities" alt="About Waqas" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%241.1M%2B_Revenue_Analyzed-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/99%25%2B_ML_Accuracy-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/5_Projects_Delivered-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&labelColor=0d1117&color=22c55e"/>
+</p>
+
+<br/>
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🎯 What I Build**
+- 📊 Power BI dashboards · DAX · drill-throughs
+- 🔄 ETL pipelines on GCP BigQuery + SQL
+- 🤖 ML & DL models — LSTM, Random Forest, MLP
+- 📈 End-to-end data analysis (raw data → insights)
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Quick Facts**
+- 🎓 Final-year CS student · graduating 2026
+- 💡 Favourite stack: Python + Power BI + SQL
+- 🌐 [waqas-ahmed-portfolio.vercel.app](https://waqas-ahmed-portfolio.vercel.app)
+- 📍 Taxila, Pakistan 🇵🇰
+
+</td>
+</tr>
+</table>
 
 ---
 
