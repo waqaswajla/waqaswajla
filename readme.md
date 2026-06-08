@@ -1,87 +1,174 @@
-<h1 align="center">Hey 👋What's Up? 
-  i am waqas ahmed a data analyst from pakistan </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Waqas%20Ahmed&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20ML%20Engineer&descAlignY=57&descAlign=50&descSize=20" width="100%"/>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/waqas-ahmed-058956296">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</div>
-
-###
-
-<!-- 🔥 ACTIVITY GRAPH (NEW) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Decisions+%F0%9F%93%8A;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Built+%241.1M+Sales+Dashboard+on+GCP+BigQuery;99%25%2B+Accurate+LSTM+Activity+Recognition;Open+to+Data+Analyst+%26+BI+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
-###
+<p align="center">
+  <a href="https://waqas-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/waqas-ahmed-51929037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Waqaswajla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:waqasahmed.da@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/waqas._.heree"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+waqas = {
+    "role"      : ["Data Analyst", "Business Analyst", "ML Engineer"],
+    "education" : "BS Computer Science — HITEC University, Taxila (2022–2026)",
+    "skills"    : ["SQL", "Python", "Power BI", "Machine Learning", "ETL"],
+    "highlight" : "$1.1M revenue analyzed · 99%+ ML accuracy · 5 projects delivered",
+    "status"    : "Open to opportunities 🟢",
+    "location"  : "Taxila, Pakistan 🇵🇰"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=waqaswajla&theme=dracula&row=1&column=7" height="150" />
+
+**Data & Analytics**
+
+<img src="https://img.icons8.com/color/96/power-bi.png" height="50" title="Power BI"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" title="SQL / PostgreSQL"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" title="Matplotlib"/>
+
+**Machine Learning & AI**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" title="TensorFlow"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" title="Keras"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" title="Scikit-learn"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" title="OpenCV"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" title="Jupyter"/>
+
+**Cloud & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" title="GCP BigQuery"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" title="VS Code"/>
+<img width="8"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" title="MS Excel"/>
+
 </div>
 
-###
-<h3 align="center"> Featured Projects</h3>
+---
 
-<div align="center">
+## 🚀 Live Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=600&lines=Human+Activity+Forecasting+%7C+LSTM+%2F+GRU;Endoscopy+Image+Segmentation+%7C+KMeans;Iris+Flower+Classification+%7C+ML+Model;Intelligent+Rescue+Navigator+%7C+A%2A+Algorithm;Rockburst+Intensity+Prediction" />
+<p align="center">
+  <a href="https://waqas-ahmed-portfolio.vercel.app">
+    <img src="https://raw.githubusercontent.com/waqaswajla/waqas-ahmed-portfolio/main/public/images/screnshot.png" width="80%" alt="Waqas Ahmed Portfolio" />
+  </a>
+  <br/>
+  <a href="https://waqas-ahmed-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/View Live Portfolio →-38bdf8?style=for-the-badge" />
+  </a>
+</p>
 
-</div>
+---
 
+## 📁 Featured Projects
 
-### 
+### 📊 Superstore Sales Dashboard
+<img src="https://waqas-ahmed-portfolio.vercel.app/images/superstore.png" width="75%" alt="Superstore Dashboard"/>
+
+> **$1.1M total sales · $132.5K profit · 12% margin** across 4 years of data  
+> ETL pipeline on GCP BigQuery · Power BI dashboard · DAX formulas · US map visualization  
+> 🔗 [View in Portfolio](https://waqas-ahmed-portfolio.vercel.app)
+
+---
+
+### 📉 Customer Churn Retention Dashboard
+<img src="https://waqas-ahmed-portfolio.vercel.app/images/churn.png" width="75%" alt="Churn Dashboard"/>
+
+> **26.6% churn rate · $139,131 monthly revenue at risk** across 7,032 records  
+> Month-to-month contracts: 42.7% churn vs 2.8% for 2-year contracts  
+> 🔗 [GitHub Repo](https://github.com/waqaswajla/customer-retention-analysis-dashboard)
+
+---
+
+### 🪨 Rockburst Intensity Prediction
+> **86% cross-validated accuracy · 95.7% ROC AUC** on geotechnical hazard data  
+> Random Forest + KNN · 400-row dataset · competition-grade analysis  
+> 🔗 [GitHub Repo](https://github.com/waqaswajla/augmenting-rockburst-intensity-prediction)
+
+---
+
+### 🏃 Human Activity Recognition (LSTM)
+> **99%+ accuracy** classifying 5 activities from **75,000+ real sensor readings**  
+> LSTM neural network · TensorFlow + Keras · time-series wearable sensor data  
+> 🔗 [GitHub Repo](https://github.com/waqaswajla/Human-Activity-Forecasting-Using-Wearable-Sensor-Data-)
+
+---
+
+### 🤟 Pakistan Sign Language Recognition *(Coming Soon)*
+> **98.6% accuracy** detecting 36 Urdu sign letters via MLP + 42 MediaPipe landmarks  
+> Real-time sign-to-text-to-speech · FastAPI backend · Next.js frontend · Edge TTS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqaswajla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waqaswajla/waqaswajla/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/waqaswajla/waqaswajla/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/waqaswajla/waqaswajla/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaswajla&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-###
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waqaswajla&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=waqaswajla&label=Profile+Views&color=38bdf8&style=flat"/>
 </p>
 
-###
-
-![snake gif](https://github.com/waqaswajla/waqaswajla/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=footer" width="100%"/>
