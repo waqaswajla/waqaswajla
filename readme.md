@@ -31,47 +31,19 @@ waqas = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,pandas,numpy,tensorflow,sklearn,opencv,jupyter,gcp,mysql,git,vscode&perline=6" />
+</p>
 
-**Data & Analytics**
-
-<img src="https://img.icons8.com/color/96/power-bi.png" height="50" title="Power BI"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" title="SQL / PostgreSQL"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" title="Matplotlib"/>
-
-**Machine Learning & AI**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" title="TensorFlow"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" title="Keras"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" title="Scikit-learn"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" title="OpenCV"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" title="Jupyter"/>
-
-**Cloud & Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" title="GCP BigQuery"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" title="VS Code"/>
-<img width="8"/>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50" title="MS Excel"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
