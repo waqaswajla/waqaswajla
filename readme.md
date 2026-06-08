@@ -156,14 +156,55 @@
 
 ## 🎓 Certifications
 
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%" width="100%"/>
+</div>
 
-| Certificate | Issuer | Year |
-|:---|:---|:---:|
-| 📊 **Microsoft Power BI Data Analyst** (PL-300) | Microsoft | 2024 |
-| 📈 **Google Data Analytics Professional** | Google / Coursera | 2024 |
+<br/>
 
-</p>
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="220">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="65"/>
+  <br/><br/>
+  <b>Power BI Data Analyst</b>
+  <br/>
+  <sub>Microsoft · 2024</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/✓_Verified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</td>
+
+<td align="center" width="220">
+  <img src="https://img.icons8.com/color/96/google-logo.png" width="65"/>
+  <br/><br/>
+  <b>Google Data Analytics</b>
+  <br/>
+  <sub>Google / Coursera · 2024</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/✓_Verified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</td>
+
+<td align="center" width="220">
+  <img src="https://img.icons8.com/color/96/coursera.png" width="65"/>
+  <br/><br/>
+  <b>SQL for Data Science</b>
+  <br/>
+  <sub>IBM / Coursera · 2024</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/✓_Verified-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
