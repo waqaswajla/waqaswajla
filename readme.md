@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://waqas-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/waqas-ahmed-51929037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Waqaswajla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/Waqaswajla"><img src="https://img.shields.io/badge/@Waqaswajla-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:waqasahmed.da@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/waqas._.heree"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
@@ -15,10 +14,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=72&lines=👋+Data+Analyst+%7C+Business+Analyst+%7C+ML+Engineer;🎓+BS+Computer+Science+—+HITEC+University+(2022–2026);💼+Built+%241.1M+Revenue+Dashboard+on+GCP+BigQuery;🤖+Engineered+99%25%2B+Accurate+LSTM+Deep+Learning+Model;📉+Identified+%24139K+Monthly+Churn+Risk+in+Telecom+Data;📍+Taxila%2C+Pakistan+·+🟢+Open+to+Opportunities" alt="About Waqas" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e"/>
