@@ -161,7 +161,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=false&margin-w=12&margin-h=12&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" width="90%"/>
 </p>
 
 ---
@@ -169,7 +169,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=false&area=true&area_color=38bdf8&line=38bdf8&point=ffffff&custom_title=Waqas%20Ahmed's%20Contribution%20Graph&radius=8" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
