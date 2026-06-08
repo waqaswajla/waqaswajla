@@ -146,21 +146,30 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaswajla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqaswajla&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Waqas%20Ahmed's%20GitHub%20Stats" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=waqaswajla&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" height="175"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqaswajla&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&langs_count=8" height="200"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqaswajla&theme=tokyonight" width="95%"/>
+</div>
 
 ---
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=waqaswajla&theme=tokyonight&no-frame=false&margin-w=12&margin-h=12&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
@@ -168,7 +177,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=false&area=true&area_color=38bdf8&line=38bdf8&point=ffffff&custom_title=Waqas%20Ahmed's%20Contribution%20Graph&radius=8" width="95%"/>
 </p>
 
 ---
