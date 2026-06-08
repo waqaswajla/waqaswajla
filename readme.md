@@ -113,6 +113,8 @@
 > ETL pipeline on GCP BigQuery · Power BI dashboard · DAX formulas · US map visualization  
 > 🔗 [View in Portfolio](https://waqas-ahmed-portfolio.vercel.app)
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
 ---
 
 ### 📉 Customer Churn Retention Dashboard
@@ -122,12 +124,16 @@
 > Month-to-month contracts: 42.7% churn vs 2.8% for 2-year contracts  
 > 🔗 [GitHub Repo](https://github.com/waqaswajla/customer-retention-analysis-dashboard)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 ---
 
 ### 🪨 Rockburst Intensity Prediction
 > **86% cross-validated accuracy · 95.7% ROC AUC** on geotechnical hazard data  
 > Random Forest + KNN · 400-row dataset · competition-grade analysis  
 > 🔗 [GitHub Repo](https://github.com/waqaswajla/augmenting-rockburst-intensity-prediction)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -136,13 +142,28 @@
 > LSTM neural network · TensorFlow + Keras · time-series wearable sensor data  
 > 🔗 [GitHub Repo](https://github.com/waqaswajla/Human-Activity-Forecasting-Using-Wearable-Sensor-Data-)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 ---
 
 ### 🤟 Pakistan Sign Language Recognition *(Coming Soon)*
 > **98.6% accuracy** detecting 36 Urdu sign letters via MLP + 42 MediaPipe landmarks  
 > Real-time sign-to-text-to-speech · FastAPI backend · Next.js frontend · Edge TTS
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ---
+
+## 🎓 Certifications
+
+<p align="center">
+
+| Certificate | Issuer | Year |
+|:---|:---|:---:|
+| 📊 **Microsoft Power BI Data Analyst** (PL-300) | Microsoft | 2024 |
+| 📈 **Google Data Analytics Professional** | Google / Coursera | 2024 |
+
+</p>
 
 ## 📊 GitHub Stats
 
