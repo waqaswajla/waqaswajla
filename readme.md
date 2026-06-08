@@ -17,19 +17,11 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=760&height=72&lines=👋+Data+Analyst+%7C+Business+Analyst+%7C+ML+Engineer;🎓+BS+Computer+Science+—+HITEC+University+(2022–2026);💼+Built+%241.1M+Revenue+Dashboard+on+GCP+BigQuery;🤖+Engineered+99%25%2B+Accurate+LSTM+Deep+Learning+Model;📉+Identified+%24139K+Monthly+Churn+Risk+in+Telecom+Data;📍+Taxila%2C+Pakistan+·+🟢+Open+to+Opportunities" alt="About Waqas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=72&lines=👋+Data+Analyst+%7C+Business+Analyst+%7C+ML+Engineer;🎓+BS+Computer+Science+—+HITEC+University+(2022–2026);💼+Built+%241.1M+Revenue+Dashboard+on+GCP+BigQuery;🤖+Engineered+99%25%2B+Accurate+LSTM+Deep+Learning+Model;📉+Identified+%24139K+Monthly+Churn+Risk+in+Telecom+Data;📍+Taxila%2C+Pakistan+·+🟢+Open+to+Opportunities" alt="About Waqas" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/%241.1M%2B_Revenue_Analyzed-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/99%25%2B_ML_Accuracy-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/5_Projects_Delivered-38bdf8?style=flat-square&labelColor=0d1117&color=38bdf8"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&labelColor=0d1117&color=22c55e"/>
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e"/>
 </p>
 
 <br/>
