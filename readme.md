@@ -124,7 +124,7 @@
 
 > **26.6% churn rate · $139,131 monthly revenue at risk** across 7,032 records  
 > Month-to-month contracts: 42.7% churn vs 2.8% for 2-year contracts  
-> 🔗 [GitHub Repo](https://github.com/waqaswajla/customer-retention-analysis-dashboard)
+> 🔗 [GitHub Repo](https://github.com/waqaswajla/Customer-Churn-Retention-Advanced-)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
