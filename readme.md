@@ -243,14 +243,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqaswajla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
