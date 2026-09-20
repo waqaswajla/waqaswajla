@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Waqas%20Ahmed&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20ML%20Engineer&descAlignY=57&descAlign=50&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Decisions+%F0%9F%93%8A;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Built+%241.1M+Sales+Dashboard+on+GCP+BigQuery;99%25%2B+Accurate+LSTM+Activity+Recognition;Open+to+Data+Analyst+%26+BI+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Decisions+%F0%9F%93%8A;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Built+%241.1M+Sales+Dashboard+on+GCP+BigQuery;99%25%2B+Accurate+LSTM+Activity+Recognition;Building+SaaS+Products+%40+Fine+IT+%F0%9F%9A%80;Open+to+Data+Analyst+%26+BI+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 - 📊 Power BI dashboards · DAX · drill-throughs
 - 🔄 ETL pipelines on GCP BigQuery + SQL
 - 🤖 ML & DL models — LSTM, Random Forest, MLP
+- 🚀 SaaS products — end-to-end, idea to deployed
 - 📈 End-to-end data analysis (raw data → insights)
 
 </td>
@@ -36,9 +37,10 @@
 
 **⚡ Quick Facts**
 - 🎓 Final-year CS student · graduating 2026
+- 💼 Building SaaS products as an intern @ Fine IT
 - 💡 Favourite stack: Python + Power BI + SQL
 - 🌐 [waqas-ahmed-portfolio.vercel.app](https://waqas-ahmed-portfolio.vercel.app)
-- 📍 Taxila, Pakistan 🇵🇰
+- 📍 Islamabad, Pakistan 🇵🇰
 
 </td>
 </tr>
@@ -146,11 +148,14 @@
 
 ---
 
-### 🤟 Pakistan Sign Language Recognition *(Coming Soon)*
-> **98.6% accuracy** detecting 36 Urdu sign letters via MLP + 42 MediaPipe landmarks  
-> Real-time sign-to-text-to-speech · FastAPI backend · Next.js frontend · Edge TTS
+### 🤟 LinguaSign — Pakistan Sign Language Detection System
+<img src="https://raw.githubusercontent.com/waqaswajla/pakistan-sign-language-detection-system/main/docs/linguasign-poster.png" width="75%" alt="LinguaSign Project Poster"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+> **98.6% accuracy** detecting 37 PSL alphabet letters + 5 words via MLP + 42 MediaPipe landmarks  
+> Real-time sign-to-text-to-speech, full learning platform (Google auth, dashboard, quiz mode, donations) · FastAPI backend · Next.js frontend  
+> 🔗 [GitHub Repo](https://github.com/waqaswajla/pakistan-sign-language-detection-system) · [Earlier UI version](https://github.com/waqaswajla/linguasign-sign-to-speech-converter)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
