@@ -36,7 +36,7 @@
 <td width="50%" valign="top">
 
 **⚡ Quick Facts**
-- 🎓 Final-year CS student · graduating 2026
+- 🎓 BSCS Graduate · 2026
 - 💼 Building SaaS products as an intern @ Fine IT
 - 💡 Favourite stack: Python + Power BI + SQL
 - 🌐 [waqas-ahmed-portfolio.vercel.app](https://waqas-ahmed-portfolio.vercel.app)
